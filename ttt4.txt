@@ -1,3 +1,5 @@
 teste4
 
 alterado teste4
+
+outra linha em teste4
